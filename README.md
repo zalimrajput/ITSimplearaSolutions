@@ -31,4 +31,4 @@ This repository contains my machine learning projects, developed to solve real-w
 - Scikit-learn
 - Matplotlib and Seaborn
 
-More projects will be added as development progresses.
+
