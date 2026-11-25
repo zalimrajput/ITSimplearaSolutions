@@ -31,4 +31,7 @@ This repository contains my machine learning projects, developed to solve real-w
 - Scikit-learn
 - Matplotlib and Seaborn
 
+## Future Improvements
+
+Logistic Regression is used as the initial baseline model. In future development, stronger machine learning algorithms such as Random Forest, XGBoost, and Gradient Boosting will be explored to improve predictive performance and potentially reduce false positives (FP) and false negatives (FN) through model comparison and optimization.
 
