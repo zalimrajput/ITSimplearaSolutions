@@ -1,0 +1,10 @@
+Feature,Feature_Type,Correlation,Absolute_Correlation
+rainfall_mm,Numerical,-0.6368921187907814,0.6368921187907814
+fertilizer_used,Numerical,-0.3363107682219891,0.3363107682219891
+irrigation_used,Numerical,-0.2646919212722842,0.2646919212722842
+temperature_c,Numerical,-0.06656261404180244,0.06656261404180244
+soil_type,Categorical,,0.010014237159988377
+region,Categorical,,0.009026349322613089
+crop,Categorical,,0.006235499137663369
+weather_condition,Categorical,,0.0014073761292523143
+days_to_harvest,Numerical,0.000393908785611733,0.000393908785611733
